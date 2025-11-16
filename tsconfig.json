@@ -1,0 +1,6 @@
+{
+	"compilerOptions": {
+		"strict": true
+	},
+	"include": ["phase1/src"]
+}
